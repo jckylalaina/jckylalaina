@@ -10,7 +10,7 @@ I'm a **Full-Stack Developer** with a strong focus on front-end excellence, spec
 
 With expertise in **AI-integrated tools**, **UI optimization**, and **full-stack development**, I deliver maintainable, efficient, and user-centric products.
 
-💬 [Telegram](https://t.me/jckylalaina) | 🐦 [X](https://x.com/rjacky00) | 🌐 [Website](https://www.rjacky.com) | 📧 [Email](mailto:me@rjacky.com)
+💬 [Telegram](https://t.me/jckylalaina) | 🐦 [X](https://x.com/rjacky00) | 🌐 [Website](https://www.rjacky.com?utm_source=github) | 📧 [Email](mailto:me@rjacky.com)
 
 ---
 
